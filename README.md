@@ -2,7 +2,7 @@
 
 ### Apaixonado por Tecnologia da Informação, tenho mais de vinte anos entregando projetos com o uso de tecnologias livres.
 
-- 🔭 Atualmente trabalho com **DevOps, Kanban, Infra-estrutura, Nuvem**
+- 🔭 Atualmente trabalho com **DevOps, Kanban, Infra-estrutura de redes**
 
 - 🌱 Procuro me especializar em **Infra-estrutura de nuvens, Cluster, Contêiners, Virtualização, Linguagens de programação (Java, Python) e de script (Bash Script)**
 
