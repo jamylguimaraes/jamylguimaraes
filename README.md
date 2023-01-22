@@ -1,6 +1,6 @@
 ### Olá, Bem vindo!! 👋
 
-<h3 align="center">Apaixonado por Tecnologia da Informação, tenho mais de vinte anos entregando projetos utilizando tecnologias livres.</h3>
+##Apaixonado por Tecnologia da Informação, tenho mais de vinte anos entregando projetos utilizando tecnologias livres.##
 
 - 🔭 Atualmente estou trabalhando com **DevOps, Kanban, Infra-estrutura, Nuvem**
 
