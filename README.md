@@ -1,10 +1,8 @@
-### Hi there 👋
-<h1 align="center">Olá 👋, bem vindo ao meu repositório público</h1>
+### Olá, Bem vindo!! 👋
+
 <h3 align="center">Apaixonado por Tecnologia da Informação, tenho mais de vinte anos entregando projetos utilizando tecnologias livres.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamylguimaraes&label=Profile%20views&color=0e75b6&style=flat" alt="jamylguimaraes" /> </p>
-
-- 🔭 Atualmente estou trabalhando com [DevOps, Kanban, Infra-estrutura, Nuvem](https://www.redhat.com/pt-br/topics/devops | https://scrumguides.org)
+- 🔭 Atualmente estou trabalhando com **DevOps, Kanban, Infra-estrutura, Nuvem**
 
 - 🌱 Procuro me especializar em **Infra-estrutura de nuvens, Cluster, Contêiners, Virtualização, Linguagens de programação (Java, Python) e de script (Bash Script)**
 
